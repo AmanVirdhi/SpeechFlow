@@ -1,0 +1,13 @@
+@"
+**/target/
+**/node_modules/
+**/dist/
+**/build/
+.env
+.env.*
+!.env.example
+backend/speechflow-api/src/main/resources/application.properties
+.idea/
+.vscode/
+*.iml
+*.log
